@@ -1,2 +1,1 @@
-# Outdated
-- A very old script I wrote. It is poorly wrote so please don't use this although it should work fine
+# Outdated - use if you want but I wouldn't reccomend it
